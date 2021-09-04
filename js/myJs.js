@@ -10,7 +10,7 @@ const textConfig = {
   text9: "Bạn bị lừa rồi:v",
   text10: "Tớ biết mà ^^ Yêu cậu 3000",
   text11:
-    "Còn giờ thì chờ gì nữa mà không xem tiếp phần vui",
+    "Còn giờ chờ gì nữa mà không xem tiếp phần vui",
   text12: "Okii lunn <3",
 };
 
@@ -114,7 +114,7 @@ $(document).ready(function () {
       html: true,
       width: 900,
       padding: "3em",
-      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Whyyy'>",
+      html: "<input type='text' class='form-control' id='txtReason'  placeholder='Pass???'>",
       background: '#fff url("imgs/iput-bg.jpg")',
       backdrop: `
                     rgba(0,0,123,0.4)
